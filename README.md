@@ -1,0 +1,1 @@
+# shool_management_system

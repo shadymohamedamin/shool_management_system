@@ -1,0 +1,60 @@
+D:\CSE third year\C#\Qur'an_App\bin\Debug\Qur'an_App.exe.config
+D:\CSE third year\C#\Qur'an_App\bin\Debug\Qur'an_App.exe
+D:\CSE third year\C#\Qur'an_App\bin\Debug\Qur'an_App.pdb
+D:\CSE third year\C#\Qur'an_App\obj\Debug\Qur_an_App.Properties.Resources.resources
+D:\CSE third year\C#\Qur'an_App\obj\Debug\Qur'an_App.csproj.GenerateResource.cache
+D:\CSE third year\C#\Qur'an_App\obj\Debug\Qur'an_App.csproj.CoreCompileInputs.cache
+D:\CSE third year\C#\Qur'an_App\obj\Debug\Qur'an_App.exe
+D:\CSE third year\C#\Qur'an_App\obj\Debug\Qur'an_App.pdb
+D:\CSE third year\C#\Qur'an_App\obj\Debug\Qur_an_App.WelcForm.resources
+D:\CSE third year\C#\Qur'an_App\obj\Debug\Qur_an_App.LogInForm.resources
+D:\CSE third year\C#\Qur'an_App\obj\Debug\Qur_an_App.feesForm.resources
+D:\CSE third year\C#\Qur'an_App\obj\Debug\Qur_an_App.StudentDegreeForm.resources
+D:\CSE third year\C#\Qur'an_App\obj\Debug\Qur_an_App.EventsForm.resources
+D:\CSE third year\C#\Qur'an_App\obj\Debug\Qur_an_App.StudentInfo.resources
+D:\CSE third year\C#\Qur'an_App\obj\Debug\Qur_an_App.TeacherForm.resources
+D:\CSE third year\C#\Qur'an_App\bin\Debug\SchoolSystem.mdf
+D:\CSE third year\C#\Qur'an_App\bin\Debug\SchoolSystem_log.ldf
+D:\CSE third year\C#\Qur'an_App\obj\Debug\Qur'an_App.csproj.AssemblyReference.cache
+D:\ALL\SoftWareProject\Qur'an_App\Qur'an_App\bin\Debug\SchoolSystem.mdf
+D:\ALL\SoftWareProject\Qur'an_App\Qur'an_App\bin\Debug\SchoolSystem_log.ldf
+D:\ALL\SoftWareProject\Qur'an_App\Qur'an_App\bin\Debug\Qur'an_App.exe.config
+D:\ALL\SoftWareProject\Qur'an_App\Qur'an_App\bin\Debug\Qur'an_App.exe
+D:\ALL\SoftWareProject\Qur'an_App\Qur'an_App\bin\Debug\Qur'an_App.pdb
+D:\ALL\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur'an_App.csproj.AssemblyReference.cache
+D:\ALL\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur'an_App.csproj.SuggestedBindingRedirects.cache
+D:\ALL\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur_an_App.LogInForm.resources
+D:\ALL\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur_an_App.WelcForm.resources
+D:\ALL\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur_an_App.feesForm.resources
+D:\ALL\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur_an_App.StudentDegreeForm.resources
+D:\ALL\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur_an_App.EventsForm.resources
+D:\ALL\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur_an_App.StudentInfo.resources
+D:\ALL\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur_an_App.TeacherForm.resources
+D:\ALL\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur_an_App.Properties.Resources.resources
+D:\ALL\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur'an_App.csproj.GenerateResource.cache
+D:\ALL\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur'an_App.csproj.CoreCompileInputs.cache
+D:\ALL\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur'an_App.exe
+D:\ALL\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur'an_App.pdb
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\bin\Debug\Qur'an_App.exe.config
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\bin\Debug\Qur'an_App.exe
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\bin\Debug\Qur'an_App.pdb
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur'an_App.csproj.AssemblyReference.cache
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur'an_App.csproj.SuggestedBindingRedirects.cache
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur_an_App.LogInForm.resources
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur_an_App.WelcForm.resources
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur_an_App.feesForm.resources
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur_an_App.StudentDegreeForm.resources
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur_an_App.EventsForm.resources
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur_an_App.StudentInfo.resources
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur_an_App.TeacherForm.resources
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur_an_App.Properties.Resources.resources
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur'an_App.csproj.GenerateResource.cache
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur'an_App.csproj.CoreCompileInputs.cache
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur'an_App.exe
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur'an_App.pdb
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\bin\Debug\Qur'an_App.exe.manifest
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\bin\Debug\Qur'an_App.application
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur'an_App.exe.manifest
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\obj\Debug\Qur'an_App.application
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\bin\Debug\SchoolSystem.mdf
+D:\SoftWareProject\SoftWareProject\Qur'an_App\Qur'an_App\bin\Debug\SchoolSystem_log.ldf
